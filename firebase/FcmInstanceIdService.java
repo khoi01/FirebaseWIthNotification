@@ -1,4 +1,3 @@
-package com.masjid.khoi.masjidsultanazlanshah.firebase;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -12,7 +11,6 @@ import com.android.volley.toolbox.StringRequest;
 
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
-import com.masjid.khoi.masjidsultanazlanshah.volley.Config;
 
 import java.util.HashMap;
 import java.util.Map;
